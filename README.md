@@ -1,2 +1,1 @@
-# jekyll-test2
-Jekyll test 2 (automatic site generator)
+https://popofr13.github.io/jekyll-test2/
